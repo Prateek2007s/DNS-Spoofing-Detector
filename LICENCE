@@ -1,0 +1,6 @@
+### 4. **requirements.txt**
+The file to install dependencies.
+
+```txt
+scapy
+dnspython
